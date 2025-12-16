@@ -6,10 +6,28 @@ M.S., Data Analysis | Eastern University (October 2026)
 
 B.S., Mental Health and Human Services | University of Maine at Augusta (May 2022)
 
-### Work Experience
-
--big impact project 1!
-
--big impact project 2!
+### Skills
+## Technical Skills
+Python (Pandas, NumPy, Matplotlib)
+Excel (pivot tables, formulas, financial modeling)
+SQL
+Power BI / Tableau
+Data cleaning & visualization
+## Domain Knowledge
+Financial analysis
+Budgeting & forecasting
+Healthcare metrics & outcomes
+Cost-benefit analysis
+## Soft Skills
+Analytical thinking
+Attention to detail
+Clear communication of insights
 
 ### Projects
+
+
+
+### Experience
+Healthcare
+Administration
+Social services
