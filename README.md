@@ -3,7 +3,7 @@ I’m a data analytics graduate student with a background in healthcare and fina
 
 ## Education
 
-M.S., Data Analysis | Eastern University (October 2026)
+M.S., Data Analytics | Eastern University (October 2026)
 
 B.S., Mental Health and Human Services | University of Maine at Augusta (May 2022)
 
