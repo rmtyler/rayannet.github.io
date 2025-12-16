@@ -41,5 +41,6 @@ Clear communication of insights
 
 ## Experience
 Healthcare
+
 Administration
 Social services
